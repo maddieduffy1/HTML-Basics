@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> Online Basic Code </title>
+</head>
+
+<body>
+<h3> Today I will be running through some HTML basics such as paragraphs, line breaks, lists etc. </h3>
+
+<p> First we are going to start with a </br> Line Break </p>
+
+<p><b> Next I will be doing an ordered list: </b></p>
+
+<ol>
+<li> First I need to learn to be fluent in HTML </li>
+<li> Next I need to become fluent in CSS </li>
+<li> Next I need to learn a high level language such as Javascript </li>
+</ol>
+
+<p><b> My unordered list will bullet point how I will achieve this: </b></p>
+<ul> 
+<li> I need to give myself different time frames in order to achieve these aims. </li>
+</br>
+<li> I will return from holiday on August the 11th. </li>
+</br>
+<li> Before october the 20th I aim to be completely fluent in HTML and CSS. This may seem like a tricky goal but i can achieve it if I put my mind to it! </li>
+<li> That is exactly 10 weeks before I go away on the 20th. </li>
+</br>
+<li> This means I have 5 weeks to learn HTML (untill the 15th of september). </li>
+</br>
+<li> I then have another 5 weeks to learn CSS. </li>
+</br>
+<li> If i finish both of these goals quicker than scheduled then I shall begin learning Javascript. </li>
+</br>
+<li> This is another useful tool when becomeing a website developer. </li>
+</ul>
+
+<p align="center"> 
+This text is aligned to the center 
+</p>
+</body>
+</html>
